@@ -1,4 +1,4 @@
-// load the http modul
+// load the http module
 var http = require('http');
 
 // configure our HTTP server
